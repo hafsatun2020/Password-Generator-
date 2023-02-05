@@ -1,3 +1,4 @@
+//javascript
 let getpassBtn = document.getElementById("gen-pw")
 let passBox1 = document.querySelector("#shelf-el1")
 let passBox2 = document.querySelector("#shelf-el2")
